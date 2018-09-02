@@ -10,7 +10,7 @@
     "atom soda",
     "atom monokai soda pro"
   ],
-  "repository": "https://github.com/SH128/atom-monokai-soda",
+  "repository": "https://github.com/ajayexpert/atom-monokai-soda-pro",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
